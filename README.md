@@ -4,14 +4,14 @@ Welcome to my GitHub profile! Here's a bit about me and what I do:
 
 - 🔭 I’m currently working on improving my core programming skills.
 - 🌱 I’m currently learning cloud computing and distributed systems.
-- 👯 I’m looking to collaborate on projects that utilize cloud platforms like AWS, Azure, or GCP.
-- 🤔 I’m looking for help with breaking into the cloud computing industry to build and scale reliable systems.
 - 💬 Ask me about my previous projects in software engineering!
 - 📫 How to reach me: adrian.valen2002@gmail.com
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: I first started teaching myself how to code from an Android tablet using Notepad as an IDE!
+- ⚡ Fun fact: I learned how to code using an Android tablet!
 
 ---
+
+### 🚀 Portfolio Website
+[![Visit My Portfolio](https://img.shields.io/badge/🌐%20Visit%20My%20Portfolio-Click%20Here-blue?style=for-the-badge)](https://adrianvalen27.github.io/)
 
 ### 👨‍💻 Skills and Tools
 Here's an overview of my technical skills and tools:
